@@ -15,3 +15,5 @@
 /Users/n_sam/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.pdb
 /Users/n_sam/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.genruntimeconfig.cache
 /Users/n_sam/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/ref/EsepWebhook.dll
+/Users/n_sam/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/Newtonsoft.Json.dll
+/Users/n_sam/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.sourcelink.json

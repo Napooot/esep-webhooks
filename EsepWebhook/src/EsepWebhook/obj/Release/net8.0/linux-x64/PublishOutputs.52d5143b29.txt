@@ -3,4 +3,5 @@
 /Users/n_sam/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.pdb
 /Users/n_sam/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
 /Users/n_sam/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/n_sam/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Newtonsoft.Json.dll
 /Users/n_sam/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.dll
